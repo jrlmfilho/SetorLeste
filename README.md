@@ -1,6 +1,8 @@
 # Seja bem vindo ao portal!
 
 ## Aqui estão todos os arquivos para suporte e estudos:
+https://github.com/jrlmfilho/SetorLeste/blob/main/leituraeletrodin.pdf
+
 
 
 
