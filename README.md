@@ -7,3 +7,6 @@ https://github.com/jrlmfilho/SetorLeste/blob/main/leituraeletrodin2.pdf
 
 
 ## Aqui estão as listas de exercícios:
+
+https://github.com/jrlmfilho/SetorLeste/blob/main/lista_de_exercicios.pdf
+
